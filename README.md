@@ -13,16 +13,17 @@ On order to prepare this report, I used the dataset of previous camipaigns at Ki
 
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I focused on only parent category "Theater" to see a more defined trend.
-The graph shows that the number of successful campaigns increases from March and peaks in May, and then gradually decreases until December.
-On the other hand, it demonstrates that the number of failed campaigns fluctuates much less that of successful campaigns.
-The number of canceled campaigns is much more static and it's close to zero through out the year.
+
+* The graph shows that the number of successful campaigns increases from March and peaks in May, and then gradually decreases until December.
+* On the other hand, it demonstrates that the number of failed campaigns fluctuates much less that of successful campaigns.
+* The number of canceled campaigns is much more static and it's close to zero through out the year.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99149443/160183332-1c564399-aa00-472b-addf-cb334b04a5be.png)
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, I focused only subcategory "plays" to see a more defined trend.
-We can see that the higher the goal is the less successful the campaign gets as an overall trend. It is more probable that the campaign is successful until the goal is 15000 to 19999 USD, however, it gets more likely to fail after the goal is over 20000 USD. 
-However, the graph shows the different trend for the range from 25000USD to 44999 USD, and there were more successful campaigns than failed ones when the goal was among 35000 USD to 44999 USD.
+* We can see that the higher the goal is the less successful the campaign gets as an overall trend. It is more probable that the campaign is successful until the goal is 15000 to 19999 USD, however, it gets more likely to fail after the goal is over 20000 USD. 
+* However, the graph shows the different trend for the range from 25000USD to 44999 USD, and there were more successful campaigns than failed ones when the goal was among 35000 USD to 44999 USD.
 
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/99149443/160183310-5a650c94-6072-452f-8e66-4528f37860c4.png)
 
