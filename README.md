@@ -18,7 +18,7 @@ For this analysis, I focused on only parent category "Theater" to see a more def
 * On the other hand, it demonstrates that the number of failed campaigns fluctuates much less that of successful campaigns.
 * The number of canceled campaigns is much more static and it's close to zero through out the year.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99149443/160183332-1c564399-aa00-472b-addf-cb334b04a5be.png)
+![Theater_Outcomes_vs_Launch](https://github.com/Enagai-nagai/kickstarter-analysis/blob/main/Images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, I focused only subcategory "plays" to see a more defined trend.
