@@ -5,11 +5,10 @@ Louise is planning to launch her play "Fever" by raising funds with crowdfunding
 "Fever" project reached close to its goal in a short amount of time.
 ### Purpose
 This analysis is conducted to explores how (1)launch dates and (2)goal amounts relate to funding outcomes by using the data of "Kickstarter" previous campaigns so Louise understands the trend and get insight on how successful her project can be.
+The analysis focuses only on Parent category "Theathers" or subcategory "plays" as Louise's campaign is for her play.
 
 ## Analysis and Challenges
-Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
-
-On order to prepare this report, I used the dataset of previous camipaigns at Kickstarter platform, which includes 4114 campaigns launched from 2009 to 2017.
+In order to prepare this report, I used the dataset of previous camipaigns at Kickstarter platform, which includes 4114 campaigns launched from 2009 to 2017.
 
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I focused on only parent category "Theater" to see a more defined trend.
@@ -32,7 +31,8 @@ For this analysis, I focused only subcategory "plays" to see a more defined tren
 The overall trend we saw in the dataset among dataset of theaters/plays from 2009 to 2017 is not always consistent if you look at the certain year.
 For example, the trend of the outcome against the launch date changes quite depending on which year you are looking at. If we see the dataset of only 2014, the trend I mentioned above doesn't remain anymore.
 ![image](https://user-images.githubusercontent.com/99149443/160216391-ea13a0d8-b7b6-487f-9f60-93a658238f47.png)
-It is necessary to recognize that the trend might be inconsistent by checking it year by year so we don't lead to the wrong idea.
+It is quite important to recognize that the trend might be inconsistent by checking it year by year so we don't lead to the wrong idea.
+
 2. The logic behind the trend is unknown 
 Even though we can see overall trends in the graphs, we don't necessarily know what is causing these trends. 
 While it makes sense that it is more difficult and less probable for campaigns with big goal amount, it is not as clear why there are many successful campaigns around May. 
