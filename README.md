@@ -13,14 +13,14 @@ In order to prepare this report, I used the dataset of previous campaigns on the
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I focused on only the parent category "Theater" to see a more defined trend.
 
-* The graph shows that the number of successful campaigns increases from March and peaks in May, and then gradually decreases until December.
+* The number of successful campaigns shows a big fluctuation throughout the year, increasing from March and peaking in May, and then gradually decreasing until December.
 * On the other hand, it demonstrates that the number of failed campaigns fluctuates much less than that of successful campaigns.
-* The number of canceled campaigns is much more static and it's close to zero throughout the year.
+* The number of canceled campaigns is much more stable and it's close to zero throughout the year.
 
 ![Theater_Outcomes_vs_Launch](https://github.com/Enagai-nagai/kickstarter-analysis/blob/main/Images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-* We can see that the higher the goal is the less successful the campaign gets as an overall trend. It is more probable that the campaign is successful until the goal is 15000 to 19999 USD, however, it gets more likely to fail after the goal is over 20000 USD. 
+* We can see that the higher the goal is the less successful the campaign gets as a general trend. It is more probable that the campaign is successful until the goal is 15000 to 19999 USD, however, it gets more likely to fail after the goal is over 20000 USD. 
 * However, the graph shows a different trend for the range from 25000USD to 44999 USD, and there were more successful campaigns than failed ones when the goal was among from USD to 44999 USD.
 
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/99149443/160183310-5a650c94-6072-452f-8e66-4528f37860c4.png)
@@ -42,18 +42,18 @@ It is quite critical to know the reason behind what we see in the data so we mak
 ## Results
 ### Conclusion
 The following is recommended to make the campaign successful.
-Regarding the launch date, 
+**Regarding the launch date, **
 * Launch the campaign in May or close to May and 
 * Avoid launching the campaign in December
-Regarding the goal amount,
-* Make the goal amount minimum (if possible less than 15000 USD)
-* Half of the campaigns whose goal is above 15000 USD failed
+**Regarding the goal amount,**
+* Make the goal amount minimum (if possible less than 4999 USD, which has a high percentage of being successful)
+* Half of the campaigns whose goal is above 20000 USD failed
 ### Limitation of the dataset
 As mentioned in the above "Challenges and Difficulties", this dataset has a few limitations to making a thorough analysis
 1. **Relatively small sample size**
 Even though we have thousands of data points, it is still small to recognize the trend as statistically significant
 2. **Lack of information that is not campaign-related**
-This dataset doesn't include the information critical for our analysis, such as the number of monthly users/viewers of Kickstarter, and the marketing and promotion plan of Kickstarter. This information will give us deeper insight.
+This dataset doesn't include the information critical for our analysis, such as the number of monthly users/viewers of Kickstarter, and the marketing and promotion plan of Kickstarter. This information would give us a deeper insight.
 
 ### Other possible analyses we could create
 1. **Related to launch date**
