@@ -17,19 +17,20 @@ For this analysis, I focused on only the parent category "Theater" to see a more
 * On the other hand, it demonstrates that the number of failed campaigns fluctuates much less than that of successful campaigns.
 * The number of canceled campaigns is much more stable and it's close to zero throughout the year.
 
-![Theater_Outcomes_vs_Launch](https://github.com/Enagai-nagai/kickstarter-analysis/blob/main/Images/Theater_Outcomes_vs_Launch.png)
+![image](https://user-images.githubusercontent.com/99149443/161326610-6095dc92-fbae-43cd-978e-b1061914db35.png)
 
 ### Analysis of Outcomes Based on Goals
 * We can see that the higher the goal is the less successful the campaign gets as a general trend. It is more probable that the campaign is successful until the goal is 15000 to 19999 USD, however, it gets more likely to fail after the goal is over 20000 USD. 
 * However, the graph shows a different trend for the range from 25000USD to 44999 USD, and there were more successful campaigns than failed ones when the goal was among from USD to 44999 USD.
 
-![Outcomes Based on Goals](https://user-images.githubusercontent.com/99149443/160183310-5a650c94-6072-452f-8e66-4528f37860c4.png)
+![image](https://user-images.githubusercontent.com/99149443/161326691-c33ffc65-8f46-4837-a82a-75994aa68d55.png)
 
 ### Challenges and Difficulties Encountered
 1. **The trend is not consistent over time**  
 The general trend we saw in the dataset among theaters/plays from 2009 to 2017 is not always consistent if you look at the certain year.  
 For example, the trend of the outcome against the launch date changes quite depending on which year you are looking at. If we see the dataset of only 2014, the trend I mentioned above doesn't remain any more.  
-![Theater_Outcomes_vs_Launch_2014](https://user-images.githubusercontent.com/99149443/161322178-9651a962-4eee-4509-9201-33e2f7e81ab7.png)
+![image](https://user-images.githubusercontent.com/99149443/161326788-02201904-7adb-41ce-a968-80ab6742aedd.png)
+
 It is quite important to recognize that the trend might be inconsistent by checking it year by year so we don't lead to the wrong idea.
 
 2. **The logic behind the trend is unknown**   
@@ -59,11 +60,12 @@ This dataset doesn't include the information critical for our analysis, such as 
 1. **Related to launch date**
 * % of the outcome against the launch date
 Here we can see that the % of successful outcomes drops in December, however, it doesn't fluctuate a lot from January to November only except it peaks in May.  
-![Theater_Outcomes_vs_Launch_Percentage](https://user-images.githubusercontent.com/99149443/161316173-5322903a-4494-43d4-9abc-c4070ed841a6.png)
+![image](https://user-images.githubusercontent.com/99149443/161326831-18ea6f6c-bd3f-4b54-adeb-58ec6f313c10.png)
+
 
 2. **Related to the number of backers**
 * Average number of backers by the type of outcome
 This graph demonstrates that the successful campaigns have acquired way more backers compared to canceled and failed campaigns.  
 This indicates it is critical to expose the campaign to as many people as possible so it can earn enough backers.  
-![Average Backer Count](https://user-images.githubusercontent.com/99149443/161319091-e2bb397f-e0db-43c9-b1ec-7143f5f7e1c1.png)
+![image](https://user-images.githubusercontent.com/99149443/161326848-606ac53b-4b83-4e48-b23e-f920aaee1191.png)
 
