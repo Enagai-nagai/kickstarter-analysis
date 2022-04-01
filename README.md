@@ -29,7 +29,7 @@ For this analysis, I focused on only the parent category "Theater" to see a more
 1. **The trend is not consistent over time**  
 The general trend we saw in the dataset among theaters/plays from 2009 to 2017 is not always consistent if you look at the certain year.  
 For example, the trend of the outcome against the launch date changes quite depending on which year you are looking at. If we see the dataset of only 2014, the trend I mentioned above doesn't remain any more.  
-![image](https://user-images.githubusercontent.com/99149443/160216391-ea13a0d8-b7b6-487f-9f60-93a658238f47.png)  
+![Theater_Outcomes_vs_Launch_2014](https://user-images.githubusercontent.com/99149443/161322178-9651a962-4eee-4509-9201-33e2f7e81ab7.png)
 It is quite important to recognize that the trend might be inconsistent by checking it year by year so we don't lead to the wrong idea.
 
 2. **The logic behind the trend is unknown**   
